@@ -5,9 +5,8 @@ class Login extends React.Component{
     render(){
        
         return (
-            
        <div  className="login-wrapper"    >
-           
+           <div>as</div>
         <form className="box login-box">
             <div className="field">
                 <label className="label"> Email</label>
